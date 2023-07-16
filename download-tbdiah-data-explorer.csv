@@ -1,0 +1,65 @@
+Country,Region,Year,"Bacteriological Diagnosis Coverage (Pulmonary TB)","Childhood TB Notifications","Childhood TB (0-4) Notifications","Childhood TB (5-14) Notifications"
+Afghanistan,Asia,2018,63.53,"10,460.00","4,517.00","5,943.00"
+Afghanistan,Asia,2019,64.47,"11,474.00","5,064.00","6,410.00"
+Armenia,"Europe and Eurasia",2018,52.20,37.00,15.00,22.00
+Armenia,"Europe and Eurasia",2019,59.47,38.00,16.00,22.00
+Azerbaijan,"Europe and Eurasia",2018,75.33,200.00,44.00,156.00
+Azerbaijan,"Europe and Eurasia",2019,74.81,179.00,46.00,133.00
+Bangladesh,Asia,2018,71.83,"11,302.00","1,092.00","10,210.00"
+Bangladesh,Asia,2019,71.27,"12,330.00","1,067.00","11,263.00"
+Belarus,"Europe and Eurasia",2018,92.44,12.00,5.00,7.00
+Belarus,"Europe and Eurasia",2019,95.17,8.00,2.00,6.00
+Burma,Asia,2018,44.13,"26,262.00","11,959.00","14,303.00"
+Burma,Asia,2019,45.21,"23,703.00","11,236.00","12,467.00"
+Cambodia,Asia,2018,53.00,"5,341.00","1,538.00","3,803.00"
+Cambodia,Asia,2019,54.42,"1,849.00",0.00,0.00
+"DR Congo",Africa,2018,77.17,"18,453.00","5,745.00","12,708.00"
+"DR Congo",Africa,2019,76.71,0.00,0.00,0.00
+Ethiopia,Africa,2018,61.53,"12,053.00","3,319.00","8,734.00"
+Ethiopia,Africa,2019,63.02,"11,024.00","2,903.00","8,121.00"
+Georgia,"Europe and Eurasia",2018,87.39,77.00,23.00,54.00
+Georgia,"Europe and Eurasia",2019,90.79,72.00,10.00,62.00
+Haiti,"Latin America and the Caribbean",2018,78.51,"1,355.00",680.00,675.00
+Haiti,"Latin America and the Caribbean",2019,80.36,"1,340.00",691.00,649.00
+India,Asia,2018,56.51,"124,839.00","34,375.00","90,464.00"
+India,Asia,2019,57.46,"145,574.00","39,715.00","105,859.00"
+Indonesia,Asia,2018,46.86,"68,550.00","33,786.00","34,764.00"
+Indonesia,Asia,2019,52.19,"70,040.00","35,835.00","34,205.00"
+Kazakhstan,Asia,2018,88.13,362.00,92.00,270.00
+Kazakhstan,Asia,2019,79.52,351.00,116.00,235.00
+Kenya,Africa,2018,58.22,"9,968.00","5,555.00","4,413.00"
+Kenya,Africa,2019,64.36,"8,299.00","4,790.00","3,509.00"
+"Kyrgyz Republic",Asia,2018,61.27,310.00,59.00,251.00
+"Kyrgyz Republic",Asia,2019,63.47,305.00,67.00,238.00
+Malawi,Africa,2018,62.20,"1,399.00",527.00,872.00
+Malawi,Africa,2019,59.59,"1,527.00",545.00,982.00
+Mozambique,Africa,2018,38.79,"12,262.00","4,038.00","8,224.00"
+Mozambique,Africa,2019,37.48,"12,856.00","4,178.00","8,678.00"
+Nigeria,Africa,2018,77.03,"8,171.00","3,176.00","4,995.00"
+Nigeria,Africa,2019,74.79,"9,462.00","3,526.00","5,936.00"
+Pakistan,Asia,2018,47.93,"47,804.00","19,275.00","28,529.00"
+Pakistan,Asia,2019,49.73,"45,447.00","18,412.00","27,035.00"
+Philippines,Asia,2018,36.22,"45,402.00","19,829.00","25,573.00"
+Philippines,Asia,2019,33.79,"42,669.00","17,999.00","24,670.00"
+"Republic of Moldova","Europe and Eurasia",2018,67.24,95.00,35.00,60.00
+"Republic of Moldova","Europe and Eurasia",2019,71.04,101.00,41.00,60.00
+"South Africa",Africa,2018,70.42,"17,561.00","10,589.00","6,972.00"
+"South Africa",Africa,2019,73.68,"16,461.00","9,856.00","6,605.00"
+Tajikistan,Asia,2018,69.11,346.00,93.00,253.00
+Tajikistan,Asia,2019,66.45,404.00,117.00,287.00
+Tanzania,Africa,2018,47.77,"10,512.00","5,985.00","4,527.00"
+Tanzania,Africa,2019,44.45,"12,240.00","6,936.00","5,304.00"
+Turkmenistan,Asia,2018,48.54,37.00,0.00,0.00
+Turkmenistan,Asia,2019,48.00,44.00,0.00,0.00
+Uganda,Africa,2018,55.90,"6,809.00","3,269.00","3,540.00"
+Uganda,Africa,2019,52.55,"8,218.00","3,948.00","4,270.00"
+Ukraine,"Europe and Eurasia",2018,68.54,580.00,219.00,361.00
+Ukraine,"Europe and Eurasia",2019,72.02,585.00,206.00,379.00
+Uzbekistan,Asia,2018,54.84,"2,029.00",367.00,"1,662.00"
+Uzbekistan,Asia,2019,59.87,"2,190.00",358.00,"1,832.00"
+Vietnam,Asia,2018,69.53,"1,656.00",649.00,"1,007.00"
+Vietnam,Asia,2019,70.51,"1,704.00",663.00,"1,041.00"
+Zambia,Africa,2018,56.23,"2,206.00",888.00,"1,318.00"
+Zambia,Africa,2019,55.30,"2,473.00","1,038.00","1,435.00"
+Zimbabwe,Africa,2018,53.71,"1,517.00",681.00,836.00
+Zimbabwe,Africa,2019,55.89,"1,171.00",552.00,619.00
